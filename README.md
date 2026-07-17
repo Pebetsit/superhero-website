@@ -21,8 +21,6 @@ A responsive multi-page superhero-themed website developed using HTML and CSS. T
 
 - HTML5
 - CSS3
-- Git
-- GitHub
 
 ---
 
